@@ -1,0 +1,11 @@
+aiogram
+ebooklib
+html2text
+reportlab
+langchain
+pydantic
+python-dotenv
+langchain-deepseek
+numpy
+markdown
+beautifulsoup4
